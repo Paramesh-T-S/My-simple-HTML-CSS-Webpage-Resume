@@ -1,0 +1,36 @@
+/************* Tag Selectors **************/
+body{
+  background-color: #ddf3f5;
+}
+h2{
+  color: brown;
+}
+img{
+  border-radius: 25%;
+  mix-blend-mode: multiply;
+}
+hr{
+  border-style: dotted;
+  border-width: 7px 0 0 0;
+  width:5%;
+  color:#1f6f8b;
+}
+/*************** ID selectors **********/
+#box {
+  width: 270px;
+  padding: 10px;
+  margin: 1px;
+  /*height: 60px;*/
+  border: 3px solid black;
+  box-sizing: border-box;
+  border-color:#5d54a4;
+  border-style: dashed;
+}
+/*********** Class Selectors *********/
+.vertical{
+  border-left: 2px solid #373a40;
+  height: 100px;
+}
+.Name{
+  color: black;
+}
